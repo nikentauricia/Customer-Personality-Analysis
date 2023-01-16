@@ -9,10 +9,11 @@ Seorang Data Scientis sebuah perusahaan Online Marketplace, ingin memahami peril
 
 Perusahaan ingin mengetahui:
 * **produk apa yang paling sering dibeli berdasarkan segmen usia**
-* **produk apa yang paling sering dibeli berdasarkan segmen marital status dan jumlah anak yang dimiliki**
+* **produk apa yang paling sering dibeli**
 * **bulan apa yang mengalami penurunan pembelian**
 * **tanggal berapa yang mengalami peningkatan dan penurunan pembelian**
 * **penjualan mana yang paling sering dilakukan, baik melalui website, toko, maupun katalog**
+* **Bagaimana respon pelanggan terhadap campaign**
 
 Informasi berikut diharapkan dapat membantu perusahaan untuk mengurangi cost campaing dan meningkatkan penjualan dengan memberikan promo yang tepat.
  
